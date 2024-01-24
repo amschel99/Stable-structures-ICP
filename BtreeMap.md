@@ -50,7 +50,7 @@ where
 - `V`: Value type that must implement the `Storable` trait.
 - `M`: Memory type that must implement the `Memory` trait.
 
-## Methods
+## Methods and associated functions
 
 ### `init`
 
