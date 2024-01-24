@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # BTreeMap
 
 The `BTreeMap` is a stable map based on a B-tree, implemented in the `ic_stable_structures` crate for the Internet Computer. It follows the algorithm outlined in "Introduction to Algorithms" by Cormen et al.
@@ -207,6 +207,4 @@ Returns an iterator pointing to the first element below the given bound. Returns
 ## Blanket Implementations
 
 Several blanket implementations for common traits such as `Any`, `Borrow`, `BorrowMut`, `From`, `Into`, `TryFrom`, and `TryInto` are provided.
-```
 
-Copy and paste this code into your README file, and it will render nicely when viewed on GitHub or any Markdown viewer.
